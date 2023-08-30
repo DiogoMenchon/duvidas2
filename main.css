@@ -2,12 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #dedeeec2;
 }
 
 .container {
-    max-width: 960px;
+    max-width: 600px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 100px;
     text-align: center;
     width: 100%;
 }
@@ -30,7 +31,7 @@ input {
 
 button {
     padding: 10px 20px;
-    background-color: #007BFF;
+    background-color: #636ad1f1;
     color: white;
     border: none;
     cursor: pointer;
@@ -51,6 +52,7 @@ th {
 }
 
 .logo-img{
-    width: 100px;
+    width: 60px;
     height: auto;
+    padding-right: 10px;
 }
